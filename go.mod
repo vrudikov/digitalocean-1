@@ -1,4 +1,4 @@
-module github.com/libdns/digitalocean
+module github.com/libdns/digitalocean-1
 
 go 1.14
 
